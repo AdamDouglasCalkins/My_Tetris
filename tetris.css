@@ -1,0 +1,36 @@
+	#score{
+        display: inline-block;
+
+    }
+	
+	img {
+		width: 200px;
+		height: 90px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto
+	}
+	
+	canvas {
+		width: 200;
+		height: 400;
+		display: block;
+		margin-left: auto;
+		margin-right: auto
+	}
+
+    div{
+        font-size: 25px;
+        font-weight: bold;
+        font-family: monospace;
+		text-align: center
+    }
+	p {
+		text-align: center
+	}
+	
+	AUDIO {
+		display: block;
+		margin-left: auto;
+		margin-right: auto
+	}
